@@ -12,6 +12,8 @@ This is the repository for the readability seminar at PolyU, March 2025.
 - Download my app AlphaReadabilityChinese from <https://github.com/leileibama/AlphaReadabilityChinese/releases/tag/AlphaReadabilityChinese>
 - See Test_Samples_Chinese.zip for the experiment data. 
 
+***
+
 **If you need a large-scale corpus of general Chinese**
 
 Take a look at *The Alpha Modern Chinese Corpus*:
