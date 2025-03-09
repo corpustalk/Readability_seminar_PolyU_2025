@@ -1,4 +1,4 @@
-# readability_seminar_PolyU_2025
+# Readability seminar PolyU 2025
 
 This is the repository for the readability seminar at PolyU, March 2025. 
 
@@ -11,3 +11,9 @@ This is the repository for the readability seminar at PolyU, March 2025.
 
 - Download my app AlphaReadabilityChinese from <https://github.com/leileibama/AlphaReadabilityChinese/releases/tag/AlphaReadabilityChinese>
 - See Test_Samples_Chinese.zip for the experiment data. 
+
+**If you need a large-scale corpus of general Chinese**
+
+Take a look at *The Alpha Modern Chinese Corpus*:
+
+<https://github.com/corpustalk/Alpha_Modern_Chinese_Corpus>
