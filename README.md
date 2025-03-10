@@ -2,6 +2,13 @@
 
 This is the repository for the readability seminar at PolyU, March 2025. 
 
+**For a brief introduction to readability**
+
+- See "2024 外语与外语教学 AlphaReadabilityChinese.pdf"
+- See "Readability Formula.docx"
+
+***
+
 **For the English part**
 
 - See Readability_Seminar_PolyU_Leo.pdf for the Python code and documentation.
